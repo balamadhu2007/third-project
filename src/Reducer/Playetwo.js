@@ -1,6 +1,6 @@
 
 const initialState ={
-  name:'madhu',
+  name:'RAMA',
   score: 40
 
 }
